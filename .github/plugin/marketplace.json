@@ -2,7 +2,7 @@
   "plugins": [
     {
       "name": "example-outline",
-      "source": "plugins/outline"
+      "source": "plugins/outline-moved"
     },
     {
       "name": "example-checklist",
